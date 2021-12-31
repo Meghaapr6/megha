@@ -1,8 +1,0 @@
-bigof2.sh
-ari.sh
-sum1.sh
-leap.sh
-leapyear.sh
-checkAge.sh
-listAll.sh
-fileDis.sh
